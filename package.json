@@ -1,0 +1,9 @@
+{
+  "name": "keys",
+  "version": "0.0.1",
+  "main": "gen.mjs",
+  "license": "NONE",
+  "devDependencies": {
+    "pngjs": "^6.0.0"
+  }
+}
